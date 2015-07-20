@@ -1,5 +1,8 @@
 # taylor.swift
-Taylor series expansion of sin(x) in Swift. 
+Taylor series expansion in Swift. 
+
+The result is calculated by 
+`sin(x) = x - x^3/3! + x^5/5! - x^7/7! + ...`
 
 ## Usage
 

@@ -1,6 +1,6 @@
 import Foundation
 
-let π = M_PI
+let 🥧 = M_PI
 var input:NSString
 var 👸:Double
 
@@ -20,7 +20,7 @@ if(👸 == 0.0){
 }
 
 // Convert 👸 to an angle between -2 PI and 2 PI
-👸 = 👸 % (2 * π)
+👸 = 👸 % (2 * 🥧)
 
 // Compute the Taylor series approximation for sin(👸)
 var term:Double = 1.0 // ith term = 👸^i / i!
